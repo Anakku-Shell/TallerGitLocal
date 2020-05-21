@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 adawdadaw
+=======
+new line
+hola
+>>>>>>> 487057974e70591237f3f8362badf282be4dfa07
